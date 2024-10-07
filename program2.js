@@ -22,7 +22,8 @@ var romanToInt = function(s) {
             ans += m[s[i]];
         }
     }
-
+    console.log("Final result:", ans);
+    return ans;
     return ans;
 };
 
