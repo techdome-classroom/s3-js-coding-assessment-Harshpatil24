@@ -24,7 +24,7 @@ var romanToInt = function(s) {
     }
     console.log("Final result:", ans);
     return ans;
-    return ans;
+    
 };
 
 
